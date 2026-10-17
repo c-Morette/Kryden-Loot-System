@@ -17,8 +17,8 @@ The full text is what counts. In plain words, you may copy, share and adapt this
 
 ## Request about the Steam Workshop
 
-Please do not reupload or repack the mod. Load the original from the Steam Workshop so that every server gets
-the fixes. If you make your own version, publish it as a separate mod that credits and links to this one.
+Please do not reupload or repack the mod. Load the original from the Steam Workshop
+(https://steamcommunity.com/sharedfiles/filedetails/?id=3821627706) so that every server gets the fixes. If you make your own version, publish it as a separate mod that credits and links to this one.
 
 ## Third-party data
 

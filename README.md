@@ -15,10 +15,13 @@ loot is stays your choice: everything is in plain JSON files.
 
 Free mod. No dependencies. Works on DayZ 1.30.
 
+**Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=3821627706
+
 ## Where to start
 
 | You want to... | Read |
 |---|---|
+| Get the mod | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3821627706) |
 | Install it on your server | [Server guide](workshop/README.md) |
 | Change what comes out of the storages | [Editing the loot](docs/EDITING-LOOT.md) |
 | Use it on another map (Livonia, Sakhal, community maps) | [Map templates](docs/MAP-TEMPLATES.md) |

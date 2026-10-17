@@ -15,8 +15,8 @@ The ready-made template for **Chernarus** (DayZ 1.30) keeps the vanilla volume a
 (military, police, hunting, town, village, toxic zone...). It only moves that loot from the floor into the
 storages. How rare loot is stays your call: edit the JSON files.
 
-Free mod. No dependencies (no CF needed). Source code, guides and the template generator for other maps:
-https://github.com/c-Morette/Kryden-Loot-System
+Free mod. No dependencies (no CF needed). Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3821627706
+Source code, guides and the template generator for other maps: https://github.com/c-Morette/Kryden-Loot-System
 
 ---
 

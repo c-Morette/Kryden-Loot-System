@@ -67,6 +67,10 @@ def main():
             if word in data:
                 die("%s contem %s" % (path, word.decode()))
 
+    # meta.cpp e do launcher/Publisher (id do Workshop): sobrevive a remontagem.
+    meta = None
+    if os.path.isfile(os.path.join(mod, "meta.cpp")):
+        meta = open(os.path.join(mod, "meta.cpp"), encoding="utf-8", errors="replace").read()
     if os.path.isdir(mod):
         shutil.rmtree(mod)
     os.makedirs(os.path.join(mod, "addons"))
@@ -77,6 +81,9 @@ def main():
         for ext in (".pbo", ".pbo.Morette.bisign"):
             shutil.copy2(os.path.join(a.stage, pbo + ext), os.path.join(mod, "addons"))
     shutil.copy2(a.key, os.path.join(mod, "keys"))
+    if meta is not None:
+        with open(os.path.join(mod, "meta.cpp"), "w", encoding="utf-8", newline="\n") as f:
+            f.write(meta)
     for part in ("mission", "profile"):
         shutil.copytree(os.path.join(template, part), os.path.join(mod, "ServerFiles", a.map, part))
 
