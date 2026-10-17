@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {"Item": "Engraved1911", "Weight": 3897, "Category": "guns"},
+    {"Item": "Izh18Shotgun", "Weight": 39123, "Category": "guns"},
+    {"Item": "MKII", "Weight": 20133, "Category": "guns"},
+    {"Item": "Magnum", "Weight": 11514, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 1277, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 3999, "Category": "guns"},
+    {"Item": "P1", "Weight": 20934, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 17606, "Category": "guns"}
+  ]
+}

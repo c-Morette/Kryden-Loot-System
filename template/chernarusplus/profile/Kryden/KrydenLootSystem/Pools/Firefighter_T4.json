@@ -1,0 +1,30 @@
+{
+  "Items": [
+    {"Item": "AirborneMask", "Weight": 163, "Category": "clothes"},
+    {"Item": "BalaclavaMask_Chain", "Weight": 1, "Category": "clothes"},
+    {"Item": "BalaclavaMask_Pig", "Weight": 1, "Category": "clothes"},
+    {"Item": "FirefighterAxe", "Weight": 458, "Category": "tools"},
+    {"Item": "FirefighterJacket_Beige", "Weight": 275, "Category": "clothes"},
+    {"Item": "FirefighterJacket_Black", "Weight": 275, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_Red", "Weight": 458, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_White", "Weight": 458, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_Yellow", "Weight": 458, "Category": "clothes"},
+    {"Item": "FirefightersPants_Beige", "Weight": 275, "Category": "clothes"},
+    {"Item": "FirefightersPants_Black", "Weight": 275, "Category": "clothes"},
+    {"Item": "Flashlight", "Weight": 23, "Category": "tools"},
+    {"Item": "GasMask_Filter", "Weight": 327, "Category": "clothes"},
+    {"Item": "GlassBottle", "Weight": 20, "Category": "drink"},
+    {"Item": "Lockpick", "Weight": 13, "Category": "tools"},
+    {"Item": "NBCBootsYellow", "Weight": 49, "Category": "clothes"},
+    {"Item": "NBCGlovesYellow", "Weight": 49, "Category": "clothes"},
+    {"Item": "NBCHoodYellow", "Weight": 49, "Category": "clothes"},
+    {"Item": "NBCJacketYellow", "Weight": 49, "Category": "clothes"},
+    {"Item": "NBCPantsYellow", "Weight": 49, "Category": "clothes"},
+    {"Item": "PersonalRadio", "Weight": 156, "Category": "tools"},
+    {"Item": "Shemag_Brown", "Weight": 8, "Category": "clothes"},
+    {"Item": "Shemag_Green", "Weight": 8, "Category": "clothes"},
+    {"Item": "Shemag_Red", "Weight": 8, "Category": "clothes"},
+    {"Item": "Shemag_White", "Weight": 8, "Category": "clothes"},
+    {"Item": "WaterBottle", "Weight": 26, "Category": "drink"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Items": [
+    {"Item": "AK74", "Weight": 4000, "Category": "guns"},
+    {"Item": "AKS74U", "Weight": 24000, "Category": "guns"},
+    {"Item": "PP19", "Weight": 8407, "Category": "guns"},
+    {"Item": "SKS", "Weight": 11000, "Category": "guns"},
+    {"Item": "Saiga", "Weight": 14228, "Category": "guns"},
+    {"Item": "VSS", "Weight": 4000, "Category": "guns"},
+    {"Item": "Vikhr", "Weight": 24000, "Category": "guns"}
+  ]
+}

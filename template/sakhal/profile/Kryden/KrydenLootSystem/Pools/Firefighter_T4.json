@@ -1,0 +1,17 @@
+{
+  "Items": [
+    {"Item": "BalaclavaMask_Chain", "Weight": 2000, "Category": "clothes"},
+    {"Item": "FirefighterAxe", "Weight": 5000, "Category": "tools"},
+    {"Item": "FirefighterJacket_Beige", "Weight": 2000, "Category": "clothes"},
+    {"Item": "FirefighterJacket_Black", "Weight": 2000, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_Red", "Weight": 2000, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_White", "Weight": 2000, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_Yellow", "Weight": 2000, "Category": "clothes"},
+    {"Item": "FirefightersPants_Beige", "Weight": 2000, "Category": "clothes"},
+    {"Item": "FirefightersPants_Black", "Weight": 2000, "Category": "clothes"},
+    {"Item": "Flag_Sakhal", "Weight": 2000, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 30000, "Category": "tools"},
+    {"Item": "Heatpack", "Weight": 100000, "Category": "tools"},
+    {"Item": "Matchbox", "Weight": 150000, "Category": "tools"}
+  ]
+}

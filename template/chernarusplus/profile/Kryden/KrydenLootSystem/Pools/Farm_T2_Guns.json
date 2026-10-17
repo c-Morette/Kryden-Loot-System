@@ -1,0 +1,9 @@
+{
+  "Items": [
+    {"Item": "CZ527", "Weight": 11580, "Category": "guns"},
+    {"Item": "Crossbow_Black", "Weight": 2316, "Category": "guns"},
+    {"Item": "Izh18", "Weight": 6323, "Category": "guns"},
+    {"Item": "Izh43Shotgun", "Weight": 13896, "Category": "guns"},
+    {"Item": "Repeater", "Weight": 13896, "Category": "guns"}
+  ]
+}

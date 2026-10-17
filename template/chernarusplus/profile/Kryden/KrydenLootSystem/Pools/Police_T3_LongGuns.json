@@ -1,0 +1,8 @@
+{
+  "Items": [
+    {"Item": "Mp133Shotgun", "Weight": 8582, "Category": "guns"},
+    {"Item": "R12", "Weight": 5149, "Category": "guns"},
+    {"Item": "SSG82", "Weight": 10298, "Category": "guns"},
+    {"Item": "Scout_Chernarus", "Weight": 2098, "Category": "guns"}
+  ]
+}

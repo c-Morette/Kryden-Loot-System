@@ -1,0 +1,13 @@
+{
+  "Items": [
+    {"Item": "Deagle", "Weight": 11878, "Category": "guns"},
+    {"Item": "Deagle_Gold", "Weight": 2376, "Category": "guns"},
+    {"Item": "Derringer_Grey", "Weight": 20000, "Category": "guns"},
+    {"Item": "MKII", "Weight": 4105, "Category": "guns"},
+    {"Item": "Magnum", "Weight": 25000, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 93, "Category": "guns"},
+    {"Item": "MakarovIJ70", "Weight": 9579, "Category": "guns"},
+    {"Item": "P1", "Weight": 6842, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 4789, "Category": "guns"}
+  ]
+}

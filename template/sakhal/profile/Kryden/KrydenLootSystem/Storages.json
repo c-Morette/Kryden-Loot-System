@@ -1,0 +1,2574 @@
+{
+  "Storages": [
+    {
+      "Storage": "KLS_WoodenCrate",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Industrial_T1",
+          "Weight": 5302.5
+        },
+        {
+          "Pool": "Farm_T1",
+          "Weight": 2457.9
+        },
+        {
+          "Pool": "Farm_T1_Guns",
+          "Weight": 181.6
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        },
+        {
+          "Pool": "Town_T1",
+          "Weight": 589.2
+        },
+        {
+          "Pool": "Town_T1_Guns",
+          "Weight": 57.8
+        },
+        {
+          "Pool": "Firefighter_T1",
+          "Weight": 59.0
+        },
+        {
+          "Pool": "Coast_T1",
+          "Weight": 805.0
+        },
+        {
+          "Pool": "Office_T1",
+          "Weight": 31.7
+        },
+        {
+          "Pool": "School_T1",
+          "Weight": 5.3
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_T1",
+      "Min": 4,
+      "Max": 7,
+      "Pools": [
+        {
+          "Pool": "Industrial_T1",
+          "Weight": 5302.5
+        },
+        {
+          "Pool": "Farm_T1",
+          "Weight": 2457.9
+        },
+        {
+          "Pool": "Farm_T1_Guns",
+          "Weight": 181.6
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        },
+        {
+          "Pool": "Town_T1",
+          "Weight": 589.2
+        },
+        {
+          "Pool": "Town_T1_Guns",
+          "Weight": 57.8
+        },
+        {
+          "Pool": "Firefighter_T1",
+          "Weight": 59.0
+        },
+        {
+          "Pool": "Coast_T1",
+          "Weight": 805.0
+        },
+        {
+          "Pool": "Office_T1",
+          "Weight": 31.7
+        },
+        {
+          "Pool": "School_T1",
+          "Weight": 5.3
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_T2",
+      "Min": 4,
+      "Max": 7,
+      "Pools": [
+        {
+          "Pool": "Industrial_T2",
+          "Weight": 5302.5
+        },
+        {
+          "Pool": "Farm_T2",
+          "Weight": 2530.7
+        },
+        {
+          "Pool": "Farm_T2_Guns",
+          "Weight": 108.8
+        },
+        {
+          "Pool": "Village_T2",
+          "Weight": 3961.4
+        },
+        {
+          "Pool": "Village_T2_Guns",
+          "Weight": 200.7
+        },
+        {
+          "Pool": "Town_T2",
+          "Weight": 594.4
+        },
+        {
+          "Pool": "Town_T2_Guns",
+          "Weight": 52.6
+        },
+        {
+          "Pool": "Firefighter_T2",
+          "Weight": 59.0
+        },
+        {
+          "Pool": "Coast_T2",
+          "Weight": 805.0
+        },
+        {
+          "Pool": "Office_T2",
+          "Weight": 31.7
+        },
+        {
+          "Pool": "School_T2",
+          "Weight": 5.3
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_T3",
+      "Min": 3,
+      "Max": 7,
+      "Pools": [
+        {
+          "Pool": "Industrial_T3",
+          "Weight": 5302.5
+        },
+        {
+          "Pool": "Farm_T3",
+          "Weight": 2529.1
+        },
+        {
+          "Pool": "Farm_T3_Guns",
+          "Weight": 110.4
+        },
+        {
+          "Pool": "Village_T3",
+          "Weight": 4157.8
+        },
+        {
+          "Pool": "Village_T3_Guns",
+          "Weight": 4.3
+        },
+        {
+          "Pool": "Town_T3",
+          "Weight": 638.8
+        },
+        {
+          "Pool": "Town_T3_Guns",
+          "Weight": 8.2
+        },
+        {
+          "Pool": "Firefighter_T3",
+          "Weight": 59.0
+        },
+        {
+          "Pool": "Coast_T3",
+          "Weight": 805.0
+        },
+        {
+          "Pool": "Office_T3",
+          "Weight": 31.7
+        },
+        {
+          "Pool": "School_T3",
+          "Weight": 5.3
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_T4",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Industrial_T4",
+          "Weight": 3711.8
+        },
+        {
+          "Pool": "Industrial_T4_Explosives",
+          "Weight": 1590.75
+        },
+        {
+          "Pool": "Farm_T4",
+          "Weight": 2639.5
+        },
+        {
+          "Pool": "Farm_T4_Guns",
+          "Weight": 0.0
+        },
+        {
+          "Pool": "Village_T4",
+          "Weight": 4145.2
+        },
+        {
+          "Pool": "Village_T4_Guns",
+          "Weight": 17.0
+        },
+        {
+          "Pool": "Town_T4",
+          "Weight": 637.5
+        },
+        {
+          "Pool": "Town_T4_Guns",
+          "Weight": 9.5
+        },
+        {
+          "Pool": "Firefighter_T4",
+          "Weight": 59.0
+        },
+        {
+          "Pool": "Coast_T4",
+          "Weight": 805.0
+        },
+        {
+          "Pool": "Office_T4",
+          "Weight": 31.7
+        },
+        {
+          "Pool": "School_T4",
+          "Weight": 5.3
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Military",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 810.3
+        },
+        {
+          "Pool": "Military_T1_Guns",
+          "Weight": 104.4
+        },
+        {
+          "Pool": "Military_T1_Explosives",
+          "Weight": 61.99
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Military_T1",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 810.3
+        },
+        {
+          "Pool": "Military_T1_Guns",
+          "Weight": 104.4
+        },
+        {
+          "Pool": "Military_T1_Explosives",
+          "Weight": 61.99
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Military_T2",
+      "Min": 9,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T2",
+          "Weight": 763.2
+        },
+        {
+          "Pool": "Military_T2_Guns",
+          "Weight": 157.7
+        },
+        {
+          "Pool": "Military_T2_Explosives",
+          "Weight": 55.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Military_T3",
+      "Min": 7,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T3",
+          "Weight": 834.8
+        },
+        {
+          "Pool": "Military_T3_Guns",
+          "Weight": 83.0
+        },
+        {
+          "Pool": "Military_T3_Explosives",
+          "Weight": 58.87
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Military_T4",
+      "Min": 9,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T4",
+          "Weight": 471.2
+        },
+        {
+          "Pool": "Military_T4_Guns",
+          "Weight": 466.7
+        },
+        {
+          "Pool": "Military_T4_Explosives",
+          "Weight": 38.82
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Police",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Police_T1",
+          "Weight": 43.3
+        },
+        {
+          "Pool": "Police_T1_Guns",
+          "Weight": 11.8
+        },
+        {
+          "Pool": "Police_T1_Explosives",
+          "Weight": 0.92
+        },
+        {
+          "Pool": "Prison_T1",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Police_T1",
+      "Min": 9,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Police_T1",
+          "Weight": 43.3
+        },
+        {
+          "Pool": "Police_T1_Guns",
+          "Weight": 11.8
+        },
+        {
+          "Pool": "Police_T1_Explosives",
+          "Weight": 0.92
+        },
+        {
+          "Pool": "Prison_T1",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Police_T2",
+      "Min": 9,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Police_T2",
+          "Weight": 37.6
+        },
+        {
+          "Pool": "Police_T2_Guns",
+          "Weight": 18.0
+        },
+        {
+          "Pool": "Police_T2_Explosives",
+          "Weight": 0.41
+        },
+        {
+          "Pool": "Prison_T2",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Police_T3",
+      "Min": 9,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Police_T3",
+          "Weight": 27.3
+        },
+        {
+          "Pool": "Police_T3_Guns",
+          "Weight": 28.0
+        },
+        {
+          "Pool": "Police_T3_Explosives",
+          "Weight": 0.71
+        },
+        {
+          "Pool": "Prison_T3",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Police_T4",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Police_T4",
+          "Weight": 56.0
+        },
+        {
+          "Pool": "Police_T4_Guns",
+          "Weight": 0.0
+        },
+        {
+          "Pool": "Prison_T4",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Toxic",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "ContaminatedArea_T1",
+          "Weight": 100.0
+        },
+        {
+          "Pool": "Military_T1",
+          "Weight": 83.1
+        },
+        {
+          "Pool": "Military_T1_Guns",
+          "Weight": 10.6
+        },
+        {
+          "Pool": "Military_T1_Explosives",
+          "Weight": 6.29
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Toxic_T1",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "ContaminatedArea_T1",
+          "Weight": 100.0
+        },
+        {
+          "Pool": "Military_T1",
+          "Weight": 83.1
+        },
+        {
+          "Pool": "Military_T1_Guns",
+          "Weight": 10.6
+        },
+        {
+          "Pool": "Military_T1_Explosives",
+          "Weight": 6.29
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Toxic_T2",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "ContaminatedArea_T2",
+          "Weight": 100.0
+        },
+        {
+          "Pool": "Military_T2",
+          "Weight": 86.0
+        },
+        {
+          "Pool": "Military_T2_Guns",
+          "Weight": 10.3
+        },
+        {
+          "Pool": "Military_T2_Explosives",
+          "Weight": 3.65
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Toxic_T3",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "ContaminatedArea_T3",
+          "Weight": 100.0
+        },
+        {
+          "Pool": "Military_T3",
+          "Weight": 86.8
+        },
+        {
+          "Pool": "Military_T3_Guns",
+          "Weight": 7.7
+        },
+        {
+          "Pool": "Military_T3_Explosives",
+          "Weight": 5.46
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WoodenCrate_Toxic_T4",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "ContaminatedArea_T4",
+          "Weight": 100.0
+        },
+        {
+          "Pool": "Military_T4",
+          "Weight": 82.7
+        },
+        {
+          "Pool": "Military_T4_Guns",
+          "Weight": 15.9
+        },
+        {
+          "Pool": "Military_T4_Explosives",
+          "Weight": 1.32
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_HuntingBag",
+      "Min": 2,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Hunting_T1",
+          "Weight": 151.1
+        },
+        {
+          "Pool": "Hunting_T1_Guns",
+          "Weight": 59.4
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_HuntingBag_T1",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Hunting_T1",
+          "Weight": 151.1
+        },
+        {
+          "Pool": "Hunting_T1_Guns",
+          "Weight": 59.4
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_HuntingBag_T2",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Hunting_T2",
+          "Weight": 105.2
+        },
+        {
+          "Pool": "Hunting_T2_Guns",
+          "Weight": 105.2
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_HuntingBag_T3",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Hunting_T3",
+          "Weight": 131.0
+        },
+        {
+          "Pool": "Hunting_T3_Guns",
+          "Weight": 79.5
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_HuntingBag_T4",
+      "Min": 2,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Hunting_T4",
+          "Weight": 210.5
+        },
+        {
+          "Pool": "Hunting_T4_Guns",
+          "Weight": 0.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_MountainBag",
+      "Min": 2,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Town_T1",
+          "Weight": 589.2
+        },
+        {
+          "Pool": "Town_T1_Guns",
+          "Weight": 57.8
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        },
+        {
+          "Pool": "Coast_T1",
+          "Weight": 805.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_MountainBag_T1",
+      "Min": 3,
+      "Max": 7,
+      "Pools": [
+        {
+          "Pool": "Town_T1",
+          "Weight": 589.2
+        },
+        {
+          "Pool": "Town_T1_Guns",
+          "Weight": 57.8
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        },
+        {
+          "Pool": "Coast_T1",
+          "Weight": 805.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_MountainBag_T2",
+      "Min": 4,
+      "Max": 7,
+      "Pools": [
+        {
+          "Pool": "Town_T2",
+          "Weight": 594.4
+        },
+        {
+          "Pool": "Town_T2_Guns",
+          "Weight": 52.6
+        },
+        {
+          "Pool": "Village_T2",
+          "Weight": 3961.4
+        },
+        {
+          "Pool": "Village_T2_Guns",
+          "Weight": 200.7
+        },
+        {
+          "Pool": "Coast_T2",
+          "Weight": 805.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_MountainBag_T3",
+      "Min": 3,
+      "Max": 5,
+      "Pools": [
+        {
+          "Pool": "Town_T3",
+          "Weight": 638.8
+        },
+        {
+          "Pool": "Town_T3_Guns",
+          "Weight": 8.2
+        },
+        {
+          "Pool": "Village_T3",
+          "Weight": 4157.8
+        },
+        {
+          "Pool": "Village_T3_Guns",
+          "Weight": 4.3
+        },
+        {
+          "Pool": "Coast_T3",
+          "Weight": 805.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_MountainBag_T4",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Town_T4",
+          "Weight": 637.5
+        },
+        {
+          "Pool": "Town_T4_Guns",
+          "Weight": 9.5
+        },
+        {
+          "Pool": "Village_T4",
+          "Weight": 4145.2
+        },
+        {
+          "Pool": "Village_T4_Guns",
+          "Weight": 17.0
+        },
+        {
+          "Pool": "Coast_T4",
+          "Weight": 805.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ChildBag",
+      "Min": 2,
+      "Max": 3,
+      "Pools": [
+        {
+          "Pool": "School_T1",
+          "Weight": 5.3
+        },
+        {
+          "Pool": "Town_T1",
+          "Weight": 589.2
+        },
+        {
+          "Pool": "Town_T1_Guns",
+          "Weight": 57.8
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ChildBag_T1",
+      "Min": 4,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "School_T1",
+          "Weight": 5.3
+        },
+        {
+          "Pool": "Town_T1",
+          "Weight": 589.2
+        },
+        {
+          "Pool": "Town_T1_Guns",
+          "Weight": 57.8
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ChildBag_T2",
+      "Min": 4,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "School_T2",
+          "Weight": 5.3
+        },
+        {
+          "Pool": "Town_T2",
+          "Weight": 594.4
+        },
+        {
+          "Pool": "Town_T2_Guns",
+          "Weight": 52.6
+        },
+        {
+          "Pool": "Village_T2",
+          "Weight": 3961.4
+        },
+        {
+          "Pool": "Village_T2_Guns",
+          "Weight": 200.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ChildBag_T3",
+      "Min": 3,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "School_T3",
+          "Weight": 5.3
+        },
+        {
+          "Pool": "Town_T3",
+          "Weight": 638.8
+        },
+        {
+          "Pool": "Town_T3_Guns",
+          "Weight": 8.2
+        },
+        {
+          "Pool": "Village_T3",
+          "Weight": 4157.8
+        },
+        {
+          "Pool": "Village_T3_Guns",
+          "Weight": 4.3
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ChildBag_T4",
+      "Min": 4,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "School_T4",
+          "Weight": 5.3
+        },
+        {
+          "Pool": "Town_T4",
+          "Weight": 637.5
+        },
+        {
+          "Pool": "Town_T4_Guns",
+          "Weight": 9.5
+        },
+        {
+          "Pool": "Village_T4",
+          "Weight": 4145.2
+        },
+        {
+          "Pool": "Village_T4_Guns",
+          "Weight": 17.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_CoyoteBag",
+      "Min": 2,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Farm_T1",
+          "Weight": 2457.9
+        },
+        {
+          "Pool": "Farm_T1_Guns",
+          "Weight": 181.6
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        },
+        {
+          "Pool": "Industrial_T1",
+          "Weight": 5302.5
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_CoyoteBag_T1",
+      "Min": 2,
+      "Max": 5,
+      "Pools": [
+        {
+          "Pool": "Farm_T1",
+          "Weight": 2457.9
+        },
+        {
+          "Pool": "Farm_T1_Guns",
+          "Weight": 181.6
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        },
+        {
+          "Pool": "Industrial_T1",
+          "Weight": 5302.5
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_CoyoteBag_T2",
+      "Min": 2,
+      "Max": 5,
+      "Pools": [
+        {
+          "Pool": "Farm_T2",
+          "Weight": 2530.7
+        },
+        {
+          "Pool": "Farm_T2_Guns",
+          "Weight": 108.8
+        },
+        {
+          "Pool": "Village_T2",
+          "Weight": 3961.4
+        },
+        {
+          "Pool": "Village_T2_Guns",
+          "Weight": 200.7
+        },
+        {
+          "Pool": "Industrial_T2",
+          "Weight": 5302.5
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_CoyoteBag_T3",
+      "Min": 2,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Farm_T3",
+          "Weight": 2529.1
+        },
+        {
+          "Pool": "Farm_T3_Guns",
+          "Weight": 110.4
+        },
+        {
+          "Pool": "Village_T3",
+          "Weight": 4157.8
+        },
+        {
+          "Pool": "Village_T3_Guns",
+          "Weight": 4.3
+        },
+        {
+          "Pool": "Industrial_T3",
+          "Weight": 5302.5
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_CoyoteBag_T4",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Farm_T4",
+          "Weight": 2639.5
+        },
+        {
+          "Pool": "Farm_T4_Guns",
+          "Weight": 0.0
+        },
+        {
+          "Pool": "Village_T4",
+          "Weight": 4145.2
+        },
+        {
+          "Pool": "Village_T4_Guns",
+          "Weight": 17.0
+        },
+        {
+          "Pool": "Industrial_T4",
+          "Weight": 3711.8
+        },
+        {
+          "Pool": "Industrial_T4_Explosives",
+          "Weight": 1590.75
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_AssaultBag",
+      "Min": 2,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 810.3
+        },
+        {
+          "Pool": "Military_T1_Guns",
+          "Weight": 104.4
+        },
+        {
+          "Pool": "Military_T1_Explosives",
+          "Weight": 61.99
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_AssaultBag_T1",
+      "Min": 4,
+      "Max": 8,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 810.3
+        },
+        {
+          "Pool": "Military_T1_Guns",
+          "Weight": 104.4
+        },
+        {
+          "Pool": "Military_T1_Explosives",
+          "Weight": 61.99
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_AssaultBag_T2",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T2",
+          "Weight": 763.2
+        },
+        {
+          "Pool": "Military_T2_Guns",
+          "Weight": 157.7
+        },
+        {
+          "Pool": "Military_T2_Explosives",
+          "Weight": 55.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_AssaultBag_T3",
+      "Min": 5,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T3",
+          "Weight": 834.8
+        },
+        {
+          "Pool": "Military_T3_Guns",
+          "Weight": 83.0
+        },
+        {
+          "Pool": "Military_T3_Explosives",
+          "Weight": 58.87
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_AssaultBag_T4",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T4",
+          "Weight": 471.2
+        },
+        {
+          "Pool": "Military_T4_Guns",
+          "Weight": 466.7
+        },
+        {
+          "Pool": "Military_T4_Explosives",
+          "Weight": 38.82
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_TTsKOJacket",
+      "Min": 1,
+      "Max": 3,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 810.3
+        },
+        {
+          "Pool": "Military_T1_Guns",
+          "Weight": 104.4
+        },
+        {
+          "Pool": "Military_T1_Explosives",
+          "Weight": 61.99
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_TTsKOJacket_T1",
+      "Min": 2,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 810.3
+        },
+        {
+          "Pool": "Military_T1_Guns",
+          "Weight": 104.4
+        },
+        {
+          "Pool": "Military_T1_Explosives",
+          "Weight": 61.99
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_TTsKOJacket_T2",
+      "Min": 3,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Military_T2",
+          "Weight": 763.2
+        },
+        {
+          "Pool": "Military_T2_Guns",
+          "Weight": 157.7
+        },
+        {
+          "Pool": "Military_T2_Explosives",
+          "Weight": 55.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_TTsKOJacket_T3",
+      "Min": 2,
+      "Max": 7,
+      "Pools": [
+        {
+          "Pool": "Military_T3",
+          "Weight": 834.8
+        },
+        {
+          "Pool": "Military_T3_Guns",
+          "Weight": 83.0
+        },
+        {
+          "Pool": "Military_T3_Explosives",
+          "Weight": 58.87
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_TTsKOJacket_T4",
+      "Min": 3,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Military_T4",
+          "Weight": 471.2
+        },
+        {
+          "Pool": "Military_T4_Guns",
+          "Weight": 466.7
+        },
+        {
+          "Pool": "Military_T4_Explosives",
+          "Weight": 38.82
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_QuiltedJacket",
+      "Min": 1,
+      "Max": 3,
+      "Pools": [
+        {
+          "Pool": "Town_T1",
+          "Weight": 589.2
+        },
+        {
+          "Pool": "Town_T1_Guns",
+          "Weight": 57.8
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        },
+        {
+          "Pool": "Office_T1",
+          "Weight": 31.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_QuiltedJacket_T1",
+      "Min": 2,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Town_T1",
+          "Weight": 589.2
+        },
+        {
+          "Pool": "Town_T1_Guns",
+          "Weight": 57.8
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 3890.3
+        },
+        {
+          "Pool": "Village_T1_Guns",
+          "Weight": 271.8
+        },
+        {
+          "Pool": "Office_T1",
+          "Weight": 31.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_QuiltedJacket_T2",
+      "Min": 2,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Town_T2",
+          "Weight": 594.4
+        },
+        {
+          "Pool": "Town_T2_Guns",
+          "Weight": 52.6
+        },
+        {
+          "Pool": "Village_T2",
+          "Weight": 3961.4
+        },
+        {
+          "Pool": "Village_T2_Guns",
+          "Weight": 200.7
+        },
+        {
+          "Pool": "Office_T2",
+          "Weight": 31.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_QuiltedJacket_T3",
+      "Min": 1,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Town_T3",
+          "Weight": 638.8
+        },
+        {
+          "Pool": "Town_T3_Guns",
+          "Weight": 8.2
+        },
+        {
+          "Pool": "Village_T3",
+          "Weight": 4157.8
+        },
+        {
+          "Pool": "Village_T3_Guns",
+          "Weight": 4.3
+        },
+        {
+          "Pool": "Office_T3",
+          "Weight": 31.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_QuiltedJacket_T4",
+      "Min": 2,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Town_T4",
+          "Weight": 637.5
+        },
+        {
+          "Pool": "Town_T4_Guns",
+          "Weight": 9.5
+        },
+        {
+          "Pool": "Village_T4",
+          "Weight": 4145.2
+        },
+        {
+          "Pool": "Village_T4_Guns",
+          "Weight": 17.0
+        },
+        {
+          "Pool": "Office_T4",
+          "Weight": 31.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ParamedicJacket",
+      "Min": 1,
+      "Max": 3,
+      "Pools": [
+        {
+          "Pool": "Medic_T1",
+          "Weight": 132.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ParamedicJacket_T1",
+      "Min": 3,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Medic_T1",
+          "Weight": 132.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ParamedicJacket_T2",
+      "Min": 3,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Medic_T2",
+          "Weight": 132.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ParamedicJacket_T3",
+      "Min": 3,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Medic_T3",
+          "Weight": 132.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_ParamedicJacket_T4",
+      "Min": 1,
+      "Max": 3,
+      "Pools": [
+        {
+          "Pool": "Medic_T4",
+          "Weight": 132.7
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_PoliceJacket",
+      "Min": 1,
+      "Max": 3,
+      "Pools": [
+        {
+          "Pool": "Police_T1",
+          "Weight": 43.3
+        },
+        {
+          "Pool": "Police_T1_Guns",
+          "Weight": 11.8
+        },
+        {
+          "Pool": "Police_T1_Explosives",
+          "Weight": 0.92
+        },
+        {
+          "Pool": "Prison_T1",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_PoliceJacket_T1",
+      "Min": 3,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Police_T1",
+          "Weight": 43.3
+        },
+        {
+          "Pool": "Police_T1_Guns",
+          "Weight": 11.8
+        },
+        {
+          "Pool": "Police_T1_Explosives",
+          "Weight": 0.92
+        },
+        {
+          "Pool": "Prison_T1",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_PoliceJacket_T2",
+      "Min": 3,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Police_T2",
+          "Weight": 37.6
+        },
+        {
+          "Pool": "Police_T2_Guns",
+          "Weight": 18.0
+        },
+        {
+          "Pool": "Police_T2_Explosives",
+          "Weight": 0.41
+        },
+        {
+          "Pool": "Prison_T2",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_PoliceJacket_T3",
+      "Min": 3,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Police_T3",
+          "Weight": 27.3
+        },
+        {
+          "Pool": "Police_T3_Guns",
+          "Weight": 28.0
+        },
+        {
+          "Pool": "Police_T3_Explosives",
+          "Weight": 0.71
+        },
+        {
+          "Pool": "Prison_T3",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_PoliceJacket_T4",
+      "Min": 1,
+      "Max": 3,
+      "Pools": [
+        {
+          "Pool": "Police_T4",
+          "Weight": 56.0
+        },
+        {
+          "Pool": "Police_T4_Guns",
+          "Weight": 0.0
+        },
+        {
+          "Pool": "Prison_T4",
+          "Weight": 1.0
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 0.3
+    },
+    {
+      "Storage": "KLS_WeaponCase",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Military_T1_Guns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_T1",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Military_T1_Guns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_T2",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Military_T2",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Military_T2_LongGuns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_T3",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Military_T3",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Military_T3_LongGuns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_T4",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Military_T4",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Military_T4_LongGuns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Police",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Police_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Police_T1_Guns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Police_T1",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Police_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Police_T1_Guns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Police_T2",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Police_T2",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Police_T2_LongGuns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Police_T3",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Police_T3",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Police_T3_LongGuns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Police_T4",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Police_T4",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Police_T4_Guns",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Hunting",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Hunting_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "HuntingCase_T1",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Hunting_T1",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Hunting_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "HuntingCase_T1",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Hunting_T2",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Hunting_T2",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "HuntingCase_T2",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Hunting_T3",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Hunting_T3",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "HuntingCase_T3",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_WeaponCase_Hunting_T4",
+      "Min": 1,
+      "Max": 2,
+      "Pools": [
+        {
+          "Pool": "Hunting_T4",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "ammo",
+        "attachments"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "HuntingCase_T4",
+          "Min": 1,
+          "Max": 1,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 1,
+      "AmmoChance": 1.0
+    },
+    {
+      "Storage": "KLS_MedKit",
+      "Min": 2,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Medic_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "medical"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MedKit_T1",
+      "Min": 4,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Medic_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "medical"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MedKit_T2",
+      "Min": 5,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Medic_T2",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "medical"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MedKit_T3",
+      "Min": 4,
+      "Max": 8,
+      "Pools": [
+        {
+          "Pool": "Medic_T3",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "medical"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MedKit_T4",
+      "Min": 5,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Medic_T4",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "medical"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MilitarySupply",
+      "Min": 2,
+      "Max": 4,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 1
+        },
+        {
+          "Pool": "Town_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "ammo"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Food",
+          "Min": 1,
+          "Max": 1,
+          "Categories": [
+            "food"
+          ]
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MilitarySupply_T1",
+      "Min": 4,
+      "Max": 8,
+      "Pools": [
+        {
+          "Pool": "Military_T1",
+          "Weight": 1
+        },
+        {
+          "Pool": "Town_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "ammo"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Food",
+          "Min": 1,
+          "Max": 1,
+          "Categories": [
+            "food"
+          ]
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MilitarySupply_T2",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T2",
+          "Weight": 1
+        },
+        {
+          "Pool": "Town_T2",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "ammo"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Food",
+          "Min": 1,
+          "Max": 1,
+          "Categories": [
+            "food"
+          ]
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MilitarySupply_T3",
+      "Min": 5,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T3",
+          "Weight": 1
+        },
+        {
+          "Pool": "Town_T3",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "ammo"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Food",
+          "Min": 1,
+          "Max": 1,
+          "Categories": [
+            "food"
+          ]
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_MilitarySupply_T4",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Military_T4",
+          "Weight": 1
+        },
+        {
+          "Pool": "Town_T4",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "ammo"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Food",
+          "Min": 1,
+          "Max": 1,
+          "Categories": [
+            "food"
+          ]
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_FoodSack",
+      "Min": 3,
+      "Max": 6,
+      "Pools": [
+        {
+          "Pool": "Town_T1",
+          "Weight": 1
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "drink"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_FoodSack_T1",
+      "Min": 4,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Town_T1",
+          "Weight": 1
+        },
+        {
+          "Pool": "Village_T1",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "drink"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_FoodSack_T2",
+      "Min": 5,
+      "Max": 9,
+      "Pools": [
+        {
+          "Pool": "Town_T2",
+          "Weight": 1
+        },
+        {
+          "Pool": "Village_T2",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T2",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "drink"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_FoodSack_T3",
+      "Min": 4,
+      "Max": 7,
+      "Pools": [
+        {
+          "Pool": "Town_T3",
+          "Weight": 1
+        },
+        {
+          "Pool": "Village_T3",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T3",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "drink"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_FoodSack_T4",
+      "Min": 6,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Town_T4",
+          "Weight": 1
+        },
+        {
+          "Pool": "Village_T4",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T4",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "food",
+        "drink"
+      ],
+      "Guaranteed": [],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_ToolChest",
+      "Min": 4,
+      "Max": 8,
+      "Pools": [
+        {
+          "Pool": "Industrial_T1",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "tools"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Construction",
+          "Min": 1,
+          "Max": 2,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_ToolChest_T1",
+      "Min": 4,
+      "Max": 8,
+      "Pools": [
+        {
+          "Pool": "Industrial_T1",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T1",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "tools"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Construction",
+          "Min": 1,
+          "Max": 2,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_ToolChest_T2",
+      "Min": 4,
+      "Max": 8,
+      "Pools": [
+        {
+          "Pool": "Industrial_T2",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T2",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "tools"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Construction",
+          "Min": 1,
+          "Max": 2,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_ToolChest_T3",
+      "Min": 4,
+      "Max": 8,
+      "Pools": [
+        {
+          "Pool": "Industrial_T3",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T3",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "tools"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Construction",
+          "Min": 1,
+          "Max": 2,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    },
+    {
+      "Storage": "KLS_ToolChest_T4",
+      "Min": 10,
+      "Max": 10,
+      "Pools": [
+        {
+          "Pool": "Industrial_T4",
+          "Weight": 1
+        },
+        {
+          "Pool": "Farm_T4",
+          "Weight": 1
+        }
+      ],
+      "Categories": [
+        "tools"
+      ],
+      "Guaranteed": [
+        {
+          "Pool": "Construction",
+          "Min": 1,
+          "Max": 2,
+          "Categories": []
+        }
+      ],
+      "AmmoPerGun": 0,
+      "AmmoChance": 0.0
+    }
+  ]
+}

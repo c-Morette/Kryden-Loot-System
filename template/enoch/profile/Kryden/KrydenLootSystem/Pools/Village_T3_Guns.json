@@ -1,0 +1,9 @@
+{
+  "Items": [
+    {"Item": "CZ527", "Weight": 10094, "Category": "guns"},
+    {"Item": "Engraved1911", "Weight": 1349, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 442, "Category": "guns"},
+    {"Item": "Mosin9130", "Weight": 4038, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 1384, "Category": "guns"}
+  ]
+}

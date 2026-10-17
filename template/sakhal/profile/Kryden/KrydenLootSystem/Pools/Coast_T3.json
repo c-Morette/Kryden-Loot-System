@@ -1,0 +1,20 @@
+{
+  "Items": [
+    {"Item": "BalaclavaMask_Chain", "Weight": 13, "Category": "clothes"},
+    {"Item": "BrassKnuckles_MenAtArms", "Weight": 313, "Category": "tools"},
+    {"Item": "DryBag_Black", "Weight": 1268, "Category": "containers"},
+    {"Item": "DryBag_Blue", "Weight": 1775, "Category": "containers"},
+    {"Item": "DryBag_Green", "Weight": 1014, "Category": "containers"},
+    {"Item": "DryBag_Orange", "Weight": 1775, "Category": "containers"},
+    {"Item": "DryBag_Red", "Weight": 1775, "Category": "containers"},
+    {"Item": "DryBag_Yellow", "Weight": 1775, "Category": "containers"},
+    {"Item": "Flag_Sakhal", "Weight": 13, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 191, "Category": "tools"},
+    {"Item": "GlassBottle", "Weight": 297, "Category": "drink"},
+    {"Item": "Heatpack", "Weight": 638, "Category": "tools"},
+    {"Item": "Matchbox", "Weight": 957, "Category": "tools"},
+    {"Item": "NavyUniformJacket", "Weight": 14000, "Category": "clothes"},
+    {"Item": "NavyUniformPants", "Weight": 14000, "Category": "clothes"},
+    {"Item": "WaterBottle", "Weight": 297, "Category": "drink"}
+  ]
+}

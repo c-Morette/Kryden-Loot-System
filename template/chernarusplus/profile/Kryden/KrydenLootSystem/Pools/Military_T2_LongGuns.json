@@ -1,0 +1,8 @@
+{
+  "Items": [
+    {"Item": "MP5K", "Weight": 6123, "Category": "guns"},
+    {"Item": "PP19", "Weight": 5358, "Category": "guns"},
+    {"Item": "Saiga", "Weight": 4592, "Category": "guns"},
+    {"Item": "Vikhr", "Weight": 1531, "Category": "guns"}
+  ]
+}

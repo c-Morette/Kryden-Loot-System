@@ -1,0 +1,30 @@
+{
+  "Items": [
+    {"Item": "AlarmClock_Blue", "Weight": 77, "Category": "tools"},
+    {"Item": "AlarmClock_Green", "Weight": 77, "Category": "tools"},
+    {"Item": "AlarmClock_Red", "Weight": 77, "Category": "tools"},
+    {"Item": "BalaclavaMask_Chain", "Weight": 11, "Category": "clothes"},
+    {"Item": "Flag_APA", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Altis", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_BabyDeer", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Bear", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Bohemia", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_BrainZ", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Cannibals", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Crook", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_DayZ", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_NSahrani", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Pirates", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_RSTA", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Refuge", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Rex", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_SSahrani", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Sakhal", "Weight": 11, "Category": "tools"},
+    {"Item": "Flag_Snake", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_White", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flag_Zagorky", "Weight": 1176, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 171, "Category": "tools"},
+    {"Item": "Heatpack", "Weight": 570, "Category": "tools"},
+    {"Item": "Matchbox", "Weight": 854, "Category": "tools"}
+  ]
+}

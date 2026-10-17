@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- KrydenLootSystem template (2026-10-17): lootmin/lootmax de cada wreck <= 1 -->
+<eventgroupdef>
+    <group name="Scientist">
+        <child type="StaticObj_FrozenScientist_DE" spawnsecondary="false" x="0.0" z="0.0" a="0"/>
+        <child type="ScientificBriefcase" spawnsecondary="false" x="0.7" z="-1.25" a="180"/>
+    </group>
+</eventgroupdef>

@@ -1,0 +1,11 @@
+{
+  "Items": [
+    {"Item": "Crossbow_Black", "Weight": 1681, "Category": "guns"},
+    {"Item": "Crossbow_Summer", "Weight": 1681, "Category": "guns"},
+    {"Item": "Crossbow_Wood", "Weight": 2173, "Category": "guns"},
+    {"Item": "Izh43Shotgun", "Weight": 8406, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 239, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 748, "Category": "guns"},
+    {"Item": "Repeater", "Weight": 6725, "Category": "guns"}
+  ]
+}

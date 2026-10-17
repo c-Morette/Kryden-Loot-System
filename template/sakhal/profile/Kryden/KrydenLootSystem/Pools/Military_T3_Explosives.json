@@ -1,0 +1,16 @@
+{
+  "Items": [
+    {"Item": "ClaymoreMine", "Weight": 5000, "Category": "explosives"},
+    {"Item": "FlashGrenade", "Weight": 5920, "Category": "explosives"},
+    {"Item": "LandMineTrap", "Weight": 10000, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_Green", "Weight": 5920, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_Purple", "Weight": 5920, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_Red", "Weight": 5920, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_White", "Weight": 5920, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_Yellow", "Weight": 5920, "Category": "explosives"},
+    {"Item": "M67Grenade", "Weight": 9000, "Category": "explosives"},
+    {"Item": "RDG2SmokeGrenade_Black", "Weight": 5644, "Category": "explosives"},
+    {"Item": "RDG2SmokeGrenade_White", "Weight": 5644, "Category": "explosives"},
+    {"Item": "RGD5Grenade", "Weight": 9000, "Category": "explosives"}
+  ]
+}

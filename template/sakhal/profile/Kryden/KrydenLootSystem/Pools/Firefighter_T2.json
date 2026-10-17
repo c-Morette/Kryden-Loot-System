@@ -1,0 +1,22 @@
+{
+  "Items": [
+    {"Item": "BalaclavaMask_Chain", "Weight": 2, "Category": "clothes"},
+    {"Item": "FirefighterAxe", "Weight": 1188, "Category": "tools"},
+    {"Item": "FirefighterJacket_Beige", "Weight": 475, "Category": "clothes"},
+    {"Item": "FirefighterJacket_Black", "Weight": 475, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_Red", "Weight": 475, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_White", "Weight": 475, "Category": "clothes"},
+    {"Item": "FirefightersHelmet_Yellow", "Weight": 475, "Category": "clothes"},
+    {"Item": "FirefightersPants_Beige", "Weight": 475, "Category": "clothes"},
+    {"Item": "FirefightersPants_Black", "Weight": 475, "Category": "clothes"},
+    {"Item": "Flag_Sakhal", "Weight": 2, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 26, "Category": "tools"},
+    {"Item": "Heatpack", "Weight": 88, "Category": "tools"},
+    {"Item": "Matchbox", "Weight": 132, "Category": "tools"},
+    {"Item": "PetrolLighter", "Weight": 82, "Category": "tools"},
+    {"Item": "Shemag_Brown", "Weight": 14, "Category": "clothes"},
+    {"Item": "Shemag_Green", "Weight": 14, "Category": "clothes"},
+    {"Item": "Shemag_Red", "Weight": 14, "Category": "clothes"},
+    {"Item": "Shemag_White", "Weight": 14, "Category": "clothes"}
+  ]
+}

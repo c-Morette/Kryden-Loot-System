@@ -1,0 +1,13 @@
+{
+  "Items": [
+    {"Item": "B95", "Weight": 4602, "Category": "guns"},
+    {"Item": "CZ527", "Weight": 2317, "Category": "guns"},
+    {"Item": "CZ527_Black", "Weight": 10466, "Category": "guns"},
+    {"Item": "Crossbow_Wood", "Weight": 923, "Category": "guns"},
+    {"Item": "Izh18", "Weight": 2877, "Category": "guns"},
+    {"Item": "Longhorn", "Weight": 5646, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 102, "Category": "guns"},
+    {"Item": "Mosin9130", "Weight": 927, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 318, "Category": "guns"}
+  ]
+}

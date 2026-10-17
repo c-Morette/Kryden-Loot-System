@@ -1,0 +1,8 @@
+{
+  "Items": [
+    {"Item": "Deagle", "Weight": 2581, "Category": "guns"},
+    {"Item": "Deagle_Gold", "Weight": 323, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 6, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 18, "Category": "guns"}
+  ]
+}

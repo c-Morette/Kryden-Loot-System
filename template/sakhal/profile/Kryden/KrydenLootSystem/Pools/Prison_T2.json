@@ -1,0 +1,23 @@
+{
+  "Items": [
+    {"Item": "BalaclavaMask_Chain", "Weight": 2000, "Category": "clothes"},
+    {"Item": "BushlatPoliceJacket_Blue", "Weight": 6000, "Category": "clothes"},
+    {"Item": "ChestHolster", "Weight": 12000, "Category": "clothes"},
+    {"Item": "Flag_Sakhal", "Weight": 2000, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 30000, "Category": "tools"},
+    {"Item": "GulagJacket_Grey", "Weight": 30000, "Category": "clothes"},
+    {"Item": "HandcuffKeys", "Weight": 5000, "Category": "tools"},
+    {"Item": "Handcuffs", "Weight": 10000, "Category": "tools"},
+    {"Item": "Heatpack", "Weight": 100000, "Category": "tools"},
+    {"Item": "Matchbox", "Weight": 150000, "Category": "tools"},
+    {"Item": "PetrolLighter", "Weight": 60000, "Category": "tools"},
+    {"Item": "PrisonUniformJacket", "Weight": 5000, "Category": "clothes"},
+    {"Item": "PrisonUniformPants", "Weight": 5000, "Category": "clothes"},
+    {"Item": "PrisonerCap", "Weight": 5000, "Category": "clothes"},
+    {"Item": "Shemag_Brown", "Weight": 10000, "Category": "clothes"},
+    {"Item": "Shemag_Green", "Weight": 10000, "Category": "clothes"},
+    {"Item": "Shemag_Red", "Weight": 10000, "Category": "clothes"},
+    {"Item": "Shemag_White", "Weight": 10000, "Category": "clothes"},
+    {"Item": "UnknownFoodCan", "Weight": 8000, "Category": "food"}
+  ]
+}

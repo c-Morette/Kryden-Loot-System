@@ -1,0 +1,33 @@
+{
+  "Items": [
+    {"Item": "BalaclavaMask_Chain", "Weight": 43, "Category": "clothes"},
+    {"Item": "BrassKnuckles_MenAtArms", "Weight": 1059, "Category": "tools"},
+    {"Item": "FishingRod", "Weight": 15945, "Category": "tools"},
+    {"Item": "Flag_Sakhal", "Weight": 43, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 649, "Category": "tools"},
+    {"Item": "GlassBottle", "Weight": 1005, "Category": "drink"},
+    {"Item": "Heatpack", "Weight": 2162, "Category": "tools"},
+    {"Item": "Hoodie_Grey", "Weight": 12756, "Category": "clothes"},
+    {"Item": "Hook", "Weight": 15945, "Category": "tools"},
+    {"Item": "Jig", "Weight": 7654, "Category": "tools"},
+    {"Item": "Matchbox", "Weight": 3243, "Category": "tools"},
+    {"Item": "Netting", "Weight": 3017, "Category": "tools"},
+    {"Item": "PetrolLighter", "Weight": 2005, "Category": "tools"},
+    {"Item": "Raincoat_Black", "Weight": 5102, "Category": "clothes"},
+    {"Item": "Raincoat_Blue", "Weight": 6378, "Category": "clothes"},
+    {"Item": "Raincoat_Green", "Weight": 5102, "Category": "clothes"},
+    {"Item": "Raincoat_Orange", "Weight": 6378, "Category": "clothes"},
+    {"Item": "Raincoat_Pink", "Weight": 6378, "Category": "clothes"},
+    {"Item": "Raincoat_Red", "Weight": 6378, "Category": "clothes"},
+    {"Item": "Raincoat_Yellow", "Weight": 6378, "Category": "clothes"},
+    {"Item": "Rope", "Weight": 5745, "Category": "tools"},
+    {"Item": "Shemag_Brown", "Weight": 334, "Category": "clothes"},
+    {"Item": "Shemag_Green", "Weight": 334, "Category": "clothes"},
+    {"Item": "Shemag_Red", "Weight": 334, "Category": "clothes"},
+    {"Item": "Shemag_White", "Weight": 334, "Category": "clothes"},
+    {"Item": "WaterBottle", "Weight": 1005, "Category": "drink"},
+    {"Item": "WaterproofBag_Green", "Weight": 5740, "Category": "containers"},
+    {"Item": "WaterproofBag_Orange", "Weight": 5740, "Category": "containers"},
+    {"Item": "WaterproofBag_Yellow", "Weight": 5740, "Category": "containers"}
+  ]
+}

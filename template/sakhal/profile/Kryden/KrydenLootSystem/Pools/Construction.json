@@ -1,0 +1,24 @@
+{
+  "Items": [
+    {"Item": "BarbedWire", "Weight": 35000, "Category": "tools"},
+    {"Item": "Camonet", "Weight": 23000, "Category": "tools"},
+    {"Item": "CombinationLock", "Weight": 30000, "Category": "tools"},
+    {"Item": "CombinationLock4", "Weight": 20000, "Category": "tools"},
+    {"Item": "DuctTape", "Weight": 50000, "Category": "tools"},
+    {"Item": "EpoxyPutty", "Weight": 35000, "Category": "tools"},
+    {"Item": "FieldShovel", "Weight": 25000, "Category": "tools"},
+    {"Item": "Hacksaw", "Weight": 30000, "Category": "tools"},
+    {"Item": "Hammer", "Weight": 35000, "Category": "tools"},
+    {"Item": "HandSaw", "Weight": 30000, "Category": "tools"},
+    {"Item": "Hatchet", "Weight": 60000, "Category": "tools"},
+    {"Item": "MetalWire", "Weight": 28000, "Category": "tools"},
+    {"Item": "NailBox", "Weight": 55000, "Category": "tools"},
+    {"Item": "Netting", "Weight": 30000, "Category": "tools"},
+    {"Item": "Pickaxe", "Weight": 12000, "Category": "tools"},
+    {"Item": "Pliers", "Weight": 35000, "Category": "tools"},
+    {"Item": "Rope", "Weight": 80000, "Category": "tools"},
+    {"Item": "Shovel", "Weight": 45000, "Category": "tools"},
+    {"Item": "SledgeHammer", "Weight": 20000, "Category": "tools"},
+    {"Item": "WoodAxe", "Weight": 13000, "Category": "tools"}
+  ]
+}

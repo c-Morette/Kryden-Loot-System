@@ -1,0 +1,16 @@
+{
+  "Items": [
+    {"Item": "AK_Suppressor", "Weight": 2000, "Category": "attachments"},
+    {"Item": "Ammo_40mm_Chemgas", "Weight": 5000, "Category": "ammo"},
+    {"Item": "AntiChemInjector", "Weight": 1000, "Category": "tools"},
+    {"Item": "Attack2Bag_Ttsko", "Weight": 2000, "Category": "containers"},
+    {"Item": "Fal_FoldingBttstck", "Weight": 5000, "Category": "attachments"},
+    {"Item": "Fal_OeBttstck", "Weight": 5000, "Category": "attachments"},
+    {"Item": "KazuarOptic", "Weight": 1000, "Category": "attachments"},
+    {"Item": "M4_Suppressor", "Weight": 2000, "Category": "attachments"},
+    {"Item": "Mag_CMAG_40Rnd", "Weight": 4000, "Category": "ammo"},
+    {"Item": "Mag_FAL_20Rnd", "Weight": 9000, "Category": "ammo"},
+    {"Item": "Mag_STANAG_60Rnd", "Weight": 3000, "Category": "ammo"},
+    {"Item": "StarlightOptic", "Weight": 1000, "Category": "attachments"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Items": [
+    {"Item": "CZ527_Black", "Weight": 11779, "Category": "guns"},
+    {"Item": "Crossbow_Wood", "Weight": 1038, "Category": "guns"},
+    {"Item": "Longhorn", "Weight": 6354, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 114, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 358, "Category": "guns"}
+  ]
+}

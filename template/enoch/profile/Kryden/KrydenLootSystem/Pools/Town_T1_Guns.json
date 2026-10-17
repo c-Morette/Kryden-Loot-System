@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {"Item": "Deagle", "Weight": 12903, "Category": "guns"},
+    {"Item": "Deagle_Gold", "Weight": 1613, "Category": "guns"},
+    {"Item": "Izh18Shotgun", "Weight": 877, "Category": "guns"},
+    {"Item": "Magnum", "Weight": 258, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 29, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 90, "Category": "guns"},
+    {"Item": "P1", "Weight": 469, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 394, "Category": "guns"}
+  ]
+}

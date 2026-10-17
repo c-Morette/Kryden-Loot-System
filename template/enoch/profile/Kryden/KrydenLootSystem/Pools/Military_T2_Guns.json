@@ -1,0 +1,15 @@
+{
+  "Items": [
+    {"Item": "AugShort", "Weight": 2758, "Category": "guns"},
+    {"Item": "Engraved1911", "Weight": 525, "Category": "guns"},
+    {"Item": "FAMAS", "Weight": 2758, "Category": "guns"},
+    {"Item": "FNX45", "Weight": 8560, "Category": "guns"},
+    {"Item": "M79", "Weight": 1256, "Category": "guns"},
+    {"Item": "MP5K", "Weight": 12000, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 538, "Category": "guns"},
+    {"Item": "SKS_Black", "Weight": 4137, "Category": "guns"},
+    {"Item": "Saiga", "Weight": 10000, "Category": "guns"},
+    {"Item": "Scout", "Weight": 6549, "Category": "guns"},
+    {"Item": "UMP45", "Weight": 8274, "Category": "guns"}
+  ]
+}

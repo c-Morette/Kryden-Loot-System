@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {"Item": "CZ527", "Weight": 746, "Category": "guns"},
+    {"Item": "CZ527_Winter", "Weight": 11811, "Category": "guns"},
+    {"Item": "CZ550", "Weight": 5906, "Category": "guns"},
+    {"Item": "Crossbow_Wood", "Weight": 112, "Category": "guns"},
+    {"Item": "Izh18", "Weight": 16632, "Category": "guns"},
+    {"Item": "Izh18Shotgun", "Weight": 7695, "Category": "guns"},
+    {"Item": "Izh43Shotgun", "Weight": 12942, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 10010, "Category": "guns"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Items": [
+    {"Item": "BalaclavaMask_Chain", "Weight": 1, "Category": "clothes"},
+    {"Item": "BalaclavaMask_Pig", "Weight": 1, "Category": "clothes"},
+    {"Item": "BoonieHat_NavyBlue", "Weight": 10, "Category": "clothes"},
+    {"Item": "Firewood", "Weight": 1, "Category": "clothes"},
+    {"Item": "FishingRod", "Weight": 265, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 8, "Category": "tools"},
+    {"Item": "GlassBottle", "Weight": 8, "Category": "containers"},
+    {"Item": "HockeyHelmet_Black", "Weight": 106, "Category": "clothes"},
+    {"Item": "HockeyHelmet_Blue", "Weight": 106, "Category": "clothes"},
+    {"Item": "HockeyHelmet_Red", "Weight": 106, "Category": "clothes"},
+    {"Item": "HockeyHelmet_White", "Weight": 106, "Category": "clothes"},
+    {"Item": "HockeyMask", "Weight": 132, "Category": "clothes"},
+    {"Item": "Hoodie_Grey", "Weight": 185, "Category": "clothes"},
+    {"Item": "Hook", "Weight": 397, "Category": "tools"},
+    {"Item": "Jig", "Weight": 265, "Category": "tools"},
+    {"Item": "Netting", "Weight": 27, "Category": "tools"},
+    {"Item": "Raincoat_Black", "Weight": 132, "Category": "clothes"},
+    {"Item": "Raincoat_Blue", "Weight": 185, "Category": "clothes"},
+    {"Item": "Raincoat_Green", "Weight": 3, "Category": "clothes"},
+    {"Item": "Raincoat_Orange", "Weight": 185, "Category": "clothes"},
+    {"Item": "Raincoat_Pink", "Weight": 185, "Category": "clothes"},
+    {"Item": "Raincoat_Red", "Weight": 185, "Category": "clothes"},
+    {"Item": "Raincoat_Yellow", "Weight": 185, "Category": "clothes"},
+    {"Item": "Shemag_Brown", "Weight": 2, "Category": "clothes"},
+    {"Item": "Shemag_Green", "Weight": 2, "Category": "clothes"},
+    {"Item": "Shemag_Red", "Weight": 2, "Category": "clothes"},
+    {"Item": "Shemag_White", "Weight": 2, "Category": "clothes"},
+    {"Item": "WaterBottle", "Weight": 8, "Category": "drink"}
+  ]
+}

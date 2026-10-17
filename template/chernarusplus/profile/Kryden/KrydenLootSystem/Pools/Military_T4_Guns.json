@@ -1,0 +1,13 @@
+{
+  "Items": [
+    {"Item": "AK101", "Weight": 1569, "Category": "guns"},
+    {"Item": "AKM", "Weight": 3000, "Category": "guns"},
+    {"Item": "ASVAL", "Weight": 3000, "Category": "guns"},
+    {"Item": "AugShort", "Weight": 1569, "Category": "guns"},
+    {"Item": "FNX45", "Weight": 3988, "Category": "guns"},
+    {"Item": "M16A2", "Weight": 1569, "Category": "guns"},
+    {"Item": "SKS", "Weight": 5491, "Category": "guns"},
+    {"Item": "SV98", "Weight": 2000, "Category": "guns"},
+    {"Item": "VSS", "Weight": 2353, "Category": "guns"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Items": [
+    {"Item": "Izh18", "Weight": 19640, "Category": "guns"},
+    {"Item": "Izh18Shotgun", "Weight": 21286, "Category": "guns"},
+    {"Item": "MKII", "Weight": 9571, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 217, "Category": "guns"},
+    {"Item": "MakarovIJ70", "Weight": 22332, "Category": "guns"},
+    {"Item": "Mosin9130", "Weight": 15299, "Category": "guns"},
+    {"Item": "Mosin9130_Woodland", "Weight": 6800, "Category": "guns"},
+    {"Item": "P1", "Weight": 15952, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 11166, "Category": "guns"}
+  ]
+}

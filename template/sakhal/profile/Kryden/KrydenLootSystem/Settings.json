@@ -1,0 +1,11 @@
+{
+    "SearchTime": 3.0,
+    "DefaultDamage": [
+        0.0,
+        0.82
+    ],
+    "DebugLog": 0,
+    "MaxGunsPerStorage": 2,
+    "MaxSameItemPerStorage": 2,
+    "ExportItems": 0
+}

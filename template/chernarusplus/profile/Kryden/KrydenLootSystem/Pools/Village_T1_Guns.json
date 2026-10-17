@@ -1,0 +1,9 @@
+{
+  "Items": [
+    {"Item": "MKII", "Weight": 11788, "Category": "guns"},
+    {"Item": "Magnum_Gold", "Weight": 268, "Category": "guns"},
+    {"Item": "MakarovIJ70", "Weight": 27506, "Category": "guns"},
+    {"Item": "P1", "Weight": 19647, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 13753, "Category": "guns"}
+  ]
+}

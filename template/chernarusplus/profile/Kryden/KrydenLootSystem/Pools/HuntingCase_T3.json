@@ -1,0 +1,13 @@
+{
+  "Items": [
+    {"Item": "B95", "Weight": 17633, "Category": "guns"},
+    {"Item": "CZ550", "Weight": 13715, "Category": "guns"},
+    {"Item": "Crossbow_Autumn", "Weight": 2712, "Category": "guns"},
+    {"Item": "Crossbow_Wood", "Weight": 1627, "Category": "guns"},
+    {"Item": "Izh18", "Weight": 16710, "Category": "guns"},
+    {"Item": "Izh18Shotgun", "Weight": 18111, "Category": "guns"},
+    {"Item": "Mosin9130", "Weight": 13016, "Category": "guns"},
+    {"Item": "Mosin9130_Woodland", "Weight": 5785, "Category": "guns"},
+    {"Item": "Winchester70", "Weight": 6857, "Category": "guns"}
+  ]
+}

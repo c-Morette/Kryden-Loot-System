@@ -1,0 +1,9 @@
+name = "Kryden Loot System";
+picture = "Kryden/KrydenLootSystem/KrydenLootSystem_Client/data/kls_logo_512.paa";
+logo = "Kryden/KrydenLootSystem/KrydenLootSystem_Client/data/kls_logo_256.paa";
+logoSmall = "Kryden/KrydenLootSystem/KrydenLootSystem_Client/data/kls_logo_128.paa";
+logoOver = "Kryden/KrydenLootSystem/KrydenLootSystem_Client/data/kls_logo_256.paa";
+tooltip = "Kryden Loot System";
+overview = "Replaces the floor loot inside buildings with searchable storages: backpacks, jackets and crates spread empty by the Central Economy. Searching one generates its loot on the server from JSON pools; the searched storage is cleaned up and respawns elsewhere.";
+author = "Kryden";
+version = "1.0.0";

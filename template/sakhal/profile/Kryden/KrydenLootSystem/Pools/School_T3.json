@@ -1,0 +1,33 @@
+{
+  "Items": [
+    {"Item": "AlarmClock_Blue", "Weight": 4, "Category": "tools"},
+    {"Item": "AlarmClock_Green", "Weight": 4, "Category": "tools"},
+    {"Item": "AlarmClock_Red", "Weight": 4, "Category": "tools"},
+    {"Item": "BalaclavaMask_Chain", "Weight": 1, "Category": "clothes"},
+    {"Item": "Flag_APA", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Altis", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_BabyDeer", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Bear", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Bohemia", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_BrainZ", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Cannibals", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Crook", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_DayZ", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_NSahrani", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Pirates", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_RSTA", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Refuge", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Rex", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_SSahrani", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Sakhal", "Weight": 1, "Category": "tools"},
+    {"Item": "Flag_Snake", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_White", "Weight": 59, "Category": "tools"},
+    {"Item": "Flag_Zagorky", "Weight": 59, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 8, "Category": "tools"},
+    {"Item": "Heatpack", "Weight": 28, "Category": "tools"},
+    {"Item": "Honey", "Weight": 9, "Category": "food"},
+    {"Item": "Marmalade", "Weight": 10, "Category": "food"},
+    {"Item": "Matchbox", "Weight": 43, "Category": "tools"},
+    {"Item": "PowderedMilk", "Weight": 6, "Category": "food"}
+  ]
+}

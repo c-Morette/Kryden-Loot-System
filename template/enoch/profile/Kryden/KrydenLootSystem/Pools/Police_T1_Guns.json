@@ -1,0 +1,7 @@
+{
+  "Items": [
+    {"Item": "Glock19", "Weight": 14797, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 140, "Category": "guns"},
+    {"Item": "Mp133Shotgun", "Weight": 14797, "Category": "guns"}
+  ]
+}

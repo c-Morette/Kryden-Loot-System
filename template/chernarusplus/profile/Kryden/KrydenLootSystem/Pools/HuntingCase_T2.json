@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {"Item": "CZ527_Woodland", "Weight": 17215, "Category": "guns"},
+    {"Item": "Crossbow_Autumn", "Weight": 2288, "Category": "guns"},
+    {"Item": "Crossbow_Wood", "Weight": 1373, "Category": "guns"},
+    {"Item": "Izh18", "Weight": 19640, "Category": "guns"},
+    {"Item": "Izh18Shotgun", "Weight": 21286, "Category": "guns"},
+    {"Item": "Mosin9130", "Weight": 15299, "Category": "guns"},
+    {"Item": "Mosin9130_Woodland", "Weight": 6800, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 11166, "Category": "guns"}
+  ]
+}

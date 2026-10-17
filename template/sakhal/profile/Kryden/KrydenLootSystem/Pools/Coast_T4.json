@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {"Item": "BalaclavaMask_Chain", "Weight": 2, "Category": "clothes"},
+    {"Item": "BrassKnuckles_MenAtArms", "Weight": 40, "Category": "tools"},
+    {"Item": "Flag_Sakhal", "Weight": 2, "Category": "tools"},
+    {"Item": "Flashlight", "Weight": 25, "Category": "tools"},
+    {"Item": "GlassBottle", "Weight": 38, "Category": "drink"},
+    {"Item": "Heatpack", "Weight": 83, "Category": "tools"},
+    {"Item": "Matchbox", "Weight": 124, "Category": "tools"},
+    {"Item": "WaterBottle", "Weight": 38, "Category": "drink"}
+  ]
+}

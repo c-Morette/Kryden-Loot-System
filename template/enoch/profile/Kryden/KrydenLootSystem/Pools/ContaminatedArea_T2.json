@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {"Item": "AK_Suppressor", "Weight": 1165, "Category": "attachments"},
+    {"Item": "Attack2Bag_Green", "Weight": 1748, "Category": "containers"},
+    {"Item": "KazuarOptic", "Weight": 583, "Category": "attachments"},
+    {"Item": "M4_Suppressor", "Weight": 1165, "Category": "attachments"},
+    {"Item": "Mag_M14_10Rnd", "Weight": 3496, "Category": "ammo"},
+    {"Item": "Mag_M14_20Rnd", "Weight": 1748, "Category": "ammo"},
+    {"Item": "PunchedCard", "Weight": 2913, "Category": "tools"},
+    {"Item": "StarlightOptic", "Weight": 583, "Category": "attachments"}
+  ]
+}

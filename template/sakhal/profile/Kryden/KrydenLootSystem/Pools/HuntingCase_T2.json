@@ -1,0 +1,15 @@
+{
+  "Items": [
+    {"Item": "B95", "Weight": 6000, "Category": "guns"},
+    {"Item": "CZ527", "Weight": 552, "Category": "guns"},
+    {"Item": "CZ527_Winter", "Weight": 8742, "Category": "guns"},
+    {"Item": "CZ550", "Weight": 4371, "Category": "guns"},
+    {"Item": "Crossbow_Wood", "Weight": 83, "Category": "guns"},
+    {"Item": "Izh18Shotgun", "Weight": 7169, "Category": "guns"},
+    {"Item": "Izh43Shotgun", "Weight": 12058, "Category": "guns"},
+    {"Item": "Mosin9130", "Weight": 10000, "Category": "guns"},
+    {"Item": "Mosin9130_Winter", "Weight": 25000, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 9326, "Category": "guns"},
+    {"Item": "Winchester70", "Weight": 7000, "Category": "guns"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {"Item": "FlashGrenade", "Weight": 3149, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_Green", "Weight": 3149, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_Purple", "Weight": 3149, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_Red", "Weight": 3149, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_White", "Weight": 3149, "Category": "explosives"},
+    {"Item": "M18SmokeGrenade_Yellow", "Weight": 3149, "Category": "explosives"},
+    {"Item": "RDG2SmokeGrenade_Black", "Weight": 2661, "Category": "explosives"},
+    {"Item": "RDG2SmokeGrenade_White", "Weight": 2661, "Category": "explosives"}
+  ]
+}

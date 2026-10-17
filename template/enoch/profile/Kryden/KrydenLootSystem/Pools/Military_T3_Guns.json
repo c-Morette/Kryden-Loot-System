@@ -1,0 +1,15 @@
+{
+  "Items": [
+    {"Item": "ASVAL", "Weight": 5000, "Category": "guns"},
+    {"Item": "AugShort", "Weight": 1242, "Category": "guns"},
+    {"Item": "Engraved1911", "Weight": 236, "Category": "guns"},
+    {"Item": "FAMAS", "Weight": 1242, "Category": "guns"},
+    {"Item": "M16A2", "Weight": 5000, "Category": "guns"},
+    {"Item": "M79", "Weight": 566, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 242, "Category": "guns"},
+    {"Item": "SKS_Black", "Weight": 1863, "Category": "guns"},
+    {"Item": "Scout", "Weight": 2950, "Category": "guns"},
+    {"Item": "UMP45", "Weight": 3726, "Category": "guns"},
+    {"Item": "Vikhr", "Weight": 4000, "Category": "guns"}
+  ]
+}

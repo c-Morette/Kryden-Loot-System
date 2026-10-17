@@ -1,0 +1,9 @@
+{
+  "Items": [
+    {"Item": "CZ527", "Weight": 746, "Category": "guns"},
+    {"Item": "CZ527_Winter", "Weight": 11811, "Category": "guns"},
+    {"Item": "CZ550", "Weight": 5906, "Category": "guns"},
+    {"Item": "Crossbow_Wood", "Weight": 112, "Category": "guns"},
+    {"Item": "Longhorn", "Weight": 6299, "Category": "guns"}
+  ]
+}

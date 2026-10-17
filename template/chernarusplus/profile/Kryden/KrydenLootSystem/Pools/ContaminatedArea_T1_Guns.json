@@ -1,0 +1,7 @@
+{
+  "Items": [
+    {"Item": "Aug", "Weight": 244, "Category": "guns"},
+    {"Item": "FAL", "Weight": 489, "Category": "guns"},
+    {"Item": "M4A1", "Weight": 244, "Category": "guns"}
+  ]
+}

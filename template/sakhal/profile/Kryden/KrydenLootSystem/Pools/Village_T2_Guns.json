@@ -1,0 +1,10 @@
+{
+  "Items": [
+    {"Item": "Engraved1911", "Weight": 817, "Category": "guns"},
+    {"Item": "Izh18Shotgun", "Weight": 7169, "Category": "guns"},
+    {"Item": "Izh43Shotgun", "Weight": 12058, "Category": "guns"},
+    {"Item": "MKII", "Weight": 15434, "Category": "guns"},
+    {"Item": "P1", "Weight": 10375, "Category": "guns"},
+    {"Item": "Ruger1022", "Weight": 9326, "Category": "guns"}
+  ]
+}

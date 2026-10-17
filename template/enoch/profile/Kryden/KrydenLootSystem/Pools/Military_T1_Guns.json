@@ -1,0 +1,9 @@
+{
+  "Items": [
+    {"Item": "Colt1911", "Weight": 35000, "Category": "guns"},
+    {"Item": "Engraved1911", "Weight": 395, "Category": "guns"},
+    {"Item": "FNX45", "Weight": 6440, "Category": "guns"},
+    {"Item": "M79", "Weight": 945, "Category": "guns"},
+    {"Item": "Mosin9130_Black", "Weight": 405, "Category": "guns"}
+  ]
+}

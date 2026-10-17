@@ -1,0 +1,15 @@
+{
+  "Items": [
+    {"Item": "AK101", "Weight": 2431, "Category": "guns"},
+    {"Item": "AKS74U", "Weight": 8000, "Category": "guns"},
+    {"Item": "AugShort", "Weight": 2431, "Category": "guns"},
+    {"Item": "M16A2", "Weight": 2431, "Category": "guns"},
+    {"Item": "MP5K", "Weight": 9877, "Category": "guns"},
+    {"Item": "PP19", "Weight": 8642, "Category": "guns"},
+    {"Item": "SKS", "Weight": 8509, "Category": "guns"},
+    {"Item": "Saiga", "Weight": 7408, "Category": "guns"},
+    {"Item": "UMP45", "Weight": 12000, "Category": "guns"},
+    {"Item": "VSS", "Weight": 3647, "Category": "guns"},
+    {"Item": "Vikhr", "Weight": 2469, "Category": "guns"}
+  ]
+}

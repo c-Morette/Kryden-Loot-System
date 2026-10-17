@@ -1,0 +1,6 @@
+{
+  "Items": [
+    {"Item": "RDG2SmokeGrenade_Black", "Weight": 10000, "Category": "explosives"},
+    {"Item": "RDG2SmokeGrenade_White", "Weight": 10000, "Category": "explosives"}
+  ]
+}

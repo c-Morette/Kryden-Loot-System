@@ -1,0 +1,11 @@
+{
+  "Items": [
+    {"Item": "CZ61", "Weight": 17000, "Category": "guns"},
+    {"Item": "Colt1911", "Weight": 27687, "Category": "guns"},
+    {"Item": "Engraved1911", "Weight": 224, "Category": "guns"},
+    {"Item": "MakarovIJ70", "Weight": 12288, "Category": "guns"},
+    {"Item": "P1", "Weight": 2840, "Category": "guns"},
+    {"Item": "PP19", "Weight": 4593, "Category": "guns"},
+    {"Item": "Saiga", "Weight": 7772, "Category": "guns"}
+  ]
+}

@@ -1,0 +1,7 @@
+build/
+*.pbo
+*.bisign
+*.bikey
+*.biprivatekey
+/release/
+__pycache__/

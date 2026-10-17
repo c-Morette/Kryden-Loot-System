@@ -1,0 +1,47 @@
+[h1]Kryden Loot System[/h1]
+
+Replaces the loot lying on the floor of buildings with [b]searchable storages[/b]: abandoned backpacks, jackets, crates, medical kits, food sacks, tool chests and weapon crates.
+
+[h2]How it plays[/h2]
+[list]
+[*]Storages spawn [b]empty and closed[/b] on the normal loot spots of every building.
+[*]Hold [b]Search[/b] for about 3 seconds. The server creates the loot inside, once.
+[*]A searched storage turns [b]Ruined[/b]. You can still take what is left; a few minutes later it is cleaned up and a new one spawns somewhere else.
+[*]Storages cannot be picked up, moved or used as a stash.
+[*]Themed storages: weapon crates with a long gun and its ammo, medical kits, military supply packs, food sacks, tool chests with building materials, hunting backpacks in hunting areas.
+[/list]
+
+[h2]Vanilla loot, inside the storages[/h2]
+The Chernarus template was calibrated against the vanilla Central Economy: each area (military, police, hunting, town, village, industrial, toxic zone) keeps its vanilla mix of loot, and the volume stays close to vanilla. The difference is that it sits inside about 3,400 storages instead of about 18,000 items on the floors.
+
+How rare the loot is stays your choice: everything is in plain JSON files (item lists with weights, item counts per storage, attachments per item).
+
+[h2]Requirements[/h2]
+[list]
+[*]DayZ 1.30.
+[*]No other mods needed.
+[*]Load it on the server and on clients ([b]-mod=[/b]).
+[/list]
+
+[h2]Install[/h2]
+The mod folder has a [b]README.md[/b] with every step and a [b]ServerFiles/chernarusplus[/b] folder with the ready-made template:
+[olist]
+[*]Copy the key from [b]keys/[/b] to your server keys folder.
+[*]Copy the mission files and the [b]kls[/b] folder into your mission, and add one block to [b]cfgeconomycore.xml[/b].
+[*]Copy the profile folder into your server profile.
+[*]Start the server.
+[/olist]
+
+[h2]Other maps[/h2]
+Livonia and Sakhal templates are available on GitHub (generated, not tested in-game yet). For any other map, the template generator builds one from the map's vanilla mission. Guides on GitHub.
+
+[h2]Source code and guides[/h2]
+[url=https://github.com/c-Morette/Kryden-Loot-System]github.com/c-Morette/Kryden-Loot-System[/url]
+How it works, how to edit the loot, how to make a template for your map and how it was made.
+
+[h2]License[/h2]
+[url=https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa]Arma and DayZ Public License Share Alike (ADPL-SA)[/url]: credit with a link, no commercial use, the same license for modified versions, Arma and DayZ only.
+
+[b]Do not reupload or repack this mod.[/b] Load the original from the Workshop so every server gets the fixes. If you make your own version, publish it as a separate mod that credits and links to this one.
+
+Made by Kryden.

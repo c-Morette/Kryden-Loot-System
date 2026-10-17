@@ -1,0 +1,26 @@
+{
+  "Items": [
+    {"Item": "BalaclavaMask_Chain", "Weight": 2, "Category": "clothes"},
+    {"Item": "BalaclavaMask_Pig", "Weight": 2, "Category": "clothes"},
+    {"Item": "Flashlight", "Weight": 84, "Category": "tools"},
+    {"Item": "GlassBottle", "Weight": 74, "Category": "drink"},
+    {"Item": "GulagJacket_Grey", "Weight": 172, "Category": "clothes"},
+    {"Item": "HandcuffKeys", "Weight": 812, "Category": "tools"},
+    {"Item": "Handcuffs", "Weight": 1625, "Category": "tools"},
+    {"Item": "Lockpick", "Weight": 46, "Category": "tools"},
+    {"Item": "PrisonUniformJacket", "Weight": 5000, "Category": "clothes"},
+    {"Item": "PrisonUniformPants", "Weight": 5000, "Category": "clothes"},
+    {"Item": "PrisonerCap", "Weight": 5000, "Category": "clothes"},
+    {"Item": "Shemag_Brown", "Weight": 28, "Category": "clothes"},
+    {"Item": "Shemag_Green", "Weight": 28, "Category": "clothes"},
+    {"Item": "Shemag_Red", "Weight": 28, "Category": "clothes"},
+    {"Item": "Shemag_White", "Weight": 28, "Category": "clothes"},
+    {"Item": "SodaCan_Cola", "Weight": 20, "Category": "food"},
+    {"Item": "SodaCan_Fronta", "Weight": 20, "Category": "food"},
+    {"Item": "SodaCan_Kvass", "Weight": 20, "Category": "food"},
+    {"Item": "SodaCan_Pipsi", "Weight": 20, "Category": "food"},
+    {"Item": "SodaCan_Spite", "Weight": 20, "Category": "food"},
+    {"Item": "UnknownFoodCan", "Weight": 76, "Category": "food"},
+    {"Item": "WaterBottle", "Weight": 93, "Category": "drink"}
+  ]
+}
