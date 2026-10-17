@@ -39,6 +39,8 @@ Livonia and Sakhal templates are available on GitHub (generated, not tested in-g
 [url=https://github.com/c-Morette/Kryden-Loot-System]github.com/c-Morette/Kryden-Loot-System[/url]
 How it works, how to edit the loot, how to make a template for your map and how it was made.
 
+[b]Found a bug?[/b] Open an issue on GitHub ([url=https://github.com/c-Morette/Kryden-Loot-System/issues]Issues[/url]) with your [b].RPT[/b] log, or leave a comment here.
+
 [h2]License[/h2]
 [url=https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa]Arma and DayZ Public License Share Alike (ADPL-SA)[/url]: credit with a link, no commercial use, the same license for modified versions, Arma and DayZ only.
 
